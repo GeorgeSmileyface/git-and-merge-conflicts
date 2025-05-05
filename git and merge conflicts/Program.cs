@@ -3,6 +3,9 @@ using git_and_merge_conflicts;
 
 Console.WriteLine("Hello, World!");
 
+
+// Daniel is COOL ;-)
+
 Person person1 = new Person("John", 27, "John@Johncool.com");
 
 person1.PrintPerson();
@@ -13,6 +16,7 @@ for (int i = 0; i < 20; i++)
     Console.Beep();
     Console.Beep();
 }
+
 
 
 //added something else
