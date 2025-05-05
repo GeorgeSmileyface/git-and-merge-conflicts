@@ -7,4 +7,10 @@ Console.WriteLine("Hello, World!");
 //some other line
 //This is a new line
 //This is another new line
+Console.WriteLine("ඞඞඞඞඞඞඞඞඞඞඞඞඞ");
+
+Parallel.For(0, 10, i =>
+{
+    Console.WriteLine(i);
+});
 //This is an existing line
