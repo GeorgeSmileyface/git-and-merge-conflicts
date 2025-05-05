@@ -18,6 +18,8 @@ for (int i = 0; i < 20; i++)
 }
 
 
+//hello
+Console.Beep();
 
 //added something else
 //added something
@@ -31,7 +33,17 @@ Parallel.For(1, 11, i =>
 });
 //This is an existing line
 
+
+//woop woop? 
+//lINESSSSSSSSSSSS
+
+
+
+
+//QWERTYUIOPÅ54321
+
 //Dahlmann's edit
+
 
 Console.WriteLine("""""""""
                                             oooo$$$$$$$$$$$$oooo
