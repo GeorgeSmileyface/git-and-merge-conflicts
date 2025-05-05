@@ -1,5 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using git_and_merge_conflicts;
+
 Console.WriteLine("Hello, World!");
+
+Person person1 = new Person("John", 27, "John@Johncool.com");
+
+person1.PrintPerson();
 
 //beep * 20
 for (int i = 0; i < 20; i++)
@@ -7,6 +13,7 @@ for (int i = 0; i < 20; i++)
     Console.Beep();
     Console.Beep();
 }
+
 
 //added something else
 //added something
