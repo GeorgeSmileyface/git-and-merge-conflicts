@@ -5,6 +5,7 @@ Console.WriteLine("Hello, World!");
 
 
 // Daniel is COOL ;-)
+// NICE ;-)
 
 Person person1 = new Person("John", 27, "John@Johncool.com");
 
