@@ -13,8 +13,8 @@ person1.PrintPerson();
 //beep * 20
 for (int i = 0; i < 20; i++)
 {
-    Console.Beep(15000, 2237);
-    Console.Beep(15000, 2250);
+    Console.Beep(4000, 2237);
+    Console.Beep(4000, 2250);
 }
 
 
