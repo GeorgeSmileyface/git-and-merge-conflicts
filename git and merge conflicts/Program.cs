@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-
+// Daniel is COOL ;-)
 //added something else
 //added something
 //some other line
