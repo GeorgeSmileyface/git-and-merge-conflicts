@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-
+//New line 
+Console.WriteLine("new line");
 
 //added something else
 //added something
@@ -23,5 +24,3 @@ Console.WriteLine("Hello, World!");
 
 
 
-//New line 
-Console.WriteLine("new line");
