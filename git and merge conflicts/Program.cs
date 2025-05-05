@@ -13,6 +13,10 @@ for (int i = 0; i < 20; i++)
 //some other line
 //This is a new line
 //This is another new line
+Parallel.For(1, 11, i =>
+{
+    Console.WriteLine(new string('ඞ', i));
+});
 //This is an existing line
 
 //Dahlmann's edit
