@@ -3,6 +3,9 @@ using git_and_merge_conflicts;
 
 Console.WriteLine("Hello, World!");
 
+
+// Daniel is COOL ;-)
+
 Person person1 = new Person("John", 27, "John@Johncool.com");
 
 person1.PrintPerson();
@@ -30,7 +33,15 @@ Parallel.For(1, 11, i =>
 });
 //This is an existing line
 
+
+
+
+
+
+//QWERTYUIOPÅ54321
+
 //Dahlmann's edit
+
 
 Console.WriteLine("""""""""
                                             oooo$$$$$$$$$$$$oooo
