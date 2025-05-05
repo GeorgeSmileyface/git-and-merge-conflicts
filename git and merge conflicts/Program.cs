@@ -1,6 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using git_and_merge_conflicts;
+
 Console.WriteLine("Hello, World!");
 
+Person person1 = new Person("John", 27, "John@Johncool.com");
+
+person1.PrintPerson();
 
 //added something else
 //added something
